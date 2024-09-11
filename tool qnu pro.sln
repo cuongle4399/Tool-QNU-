@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tool qnu pro", "tool qnu pro\tool qnu pro.csproj", "{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "SetupToolQNU", "D:\Project\SetupToolQNU\SetupToolQNU.vdproj", "{F27DA02B-AA7F-46E2-BF38-FD60C96661FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F27DA02B-AA7F-46E2-BF38-FD60C96661FB}.Debug|Any CPU.ActiveCfg = Debug
+		{F27DA02B-AA7F-46E2-BF38-FD60C96661FB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32947484-440A-4C9F-B9F9-C0A0AAC102A0}
+	EndGlobalSection
+EndGlobal

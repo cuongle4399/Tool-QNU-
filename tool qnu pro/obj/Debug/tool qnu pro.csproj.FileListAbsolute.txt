@@ -1,0 +1,31 @@
+C:\Users\Cuong Le\source\repos\tool qnu pro\tool qnu pro\bin\Debug\tool qnu pro.exe.config
+C:\Users\Cuong Le\source\repos\tool qnu pro\tool qnu pro\bin\Debug\tool qnu pro.exe
+C:\Users\Cuong Le\source\repos\tool qnu pro\tool qnu pro\bin\Debug\tool qnu pro.pdb
+C:\Users\Cuong Le\source\repos\tool qnu pro\tool qnu pro\obj\Debug\tool qnu pro.csproj.AssemblyReference.cache
+C:\Users\Cuong Le\source\repos\tool qnu pro\tool qnu pro\obj\Debug\tool_qnu_pro.Form1.resources
+C:\Users\Cuong Le\source\repos\tool qnu pro\tool qnu pro\obj\Debug\tool_qnu_pro.Properties.Resources.resources
+C:\Users\Cuong Le\source\repos\tool qnu pro\tool qnu pro\obj\Debug\tool qnu pro.csproj.GenerateResource.cache
+C:\Users\Cuong Le\source\repos\tool qnu pro\tool qnu pro\obj\Debug\tool qnu pro.csproj.CoreCompileInputs.cache
+C:\Users\Cuong Le\source\repos\tool qnu pro\tool qnu pro\obj\Debug\tool qnu pro.exe
+C:\Users\Cuong Le\source\repos\tool qnu pro\tool qnu pro\obj\Debug\tool qnu pro.pdb
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\bin\Debug\tool qnu pro.exe.config
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\bin\Debug\tool qnu pro.exe
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\bin\Debug\tool qnu pro.pdb
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\bin\Debug\WebDriver.dll
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\bin\Debug\WebDriver.xml
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\obj\Debug\tool qnu pro.csproj.AssemblyReference.cache
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\obj\Debug\tool_qnu_pro.frmhome.resources
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\obj\Debug\tool_qnu_pro.frmlogin.resources
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\obj\Debug\tool_qnu_pro.frmhocbong.resources
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\obj\Debug\tool_qnu_pro.frmdata.resources
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\obj\Debug\tool_qnu_pro.Properties.Resources.resources
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\obj\Debug\tool qnu pro.csproj.GenerateResource.cache
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\obj\Debug\tool qnu pro.csproj.CoreCompileInputs.cache
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\obj\Debug\tool qnu.39A8669D.Up2Date
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\obj\Debug\tool qnu pro.exe
+C:\Users\Cuong Le\Desktop\C# winform\tool qnu pro\tool qnu pro\obj\Debug\tool qnu pro.pdb

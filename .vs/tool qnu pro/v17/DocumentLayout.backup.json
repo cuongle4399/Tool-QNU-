@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}|tool qnu pro\\tool qnu pro.csproj|c:\\users\\cuong le\\desktop\\c# winform\\tool qnu pro\\tool qnu pro\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}|tool qnu pro\\tool qnu pro.csproj|solutionrelative:tool qnu pro\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}|tool qnu pro\\tool qnu pro.csproj|C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}|tool qnu pro\\tool qnu pro.csproj|solutionrelative:tool qnu pro\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}|tool qnu pro\\tool qnu pro.csproj|C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}|tool qnu pro\\tool qnu pro.csproj|solutionrelative:tool qnu pro\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}|tool qnu pro\\tool qnu pro.csproj|C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}|tool qnu pro\\tool qnu pro.csproj|solutionrelative:tool qnu pro\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}|tool qnu pro\\tool qnu pro.csproj|C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}|tool qnu pro\\tool qnu pro.csproj|solutionrelative:tool qnu pro\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}|tool qnu pro\\tool qnu pro.csproj|C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}|tool qnu pro\\tool qnu pro.csproj|solutionrelative:tool qnu pro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}|tool qnu pro\\tool qnu pro.csproj|C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}|tool qnu pro\\tool qnu pro.csproj|solutionrelative:tool qnu pro\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}|tool qnu pro\\tool qnu pro.csproj|C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{24CABE0F-303C-4650-ACCA-1DC0F2EB74D7}|tool qnu pro\\tool qnu pro.csproj|solutionrelative:tool qnu pro\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\Form1.cs",
+              "RelativeDocumentMoniker": "tool qnu pro\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\Form1.cs",
+              "RelativeToolTip": "tool qnu pro\\Form1.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAArwN0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:29:49.525Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\Form2.cs",
+              "RelativeDocumentMoniker": "tool qnu pro\\Form2.cs",
+              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\Form2.cs",
+              "RelativeToolTip": "tool qnu pro\\Form2.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAEwJkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T05:47:54.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\Form3.cs",
+              "RelativeDocumentMoniker": "tool qnu pro\\Form3.cs",
+              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\Form3.cs",
+              "RelativeToolTip": "tool qnu pro\\Form3.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAD4v4YAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T08:37:40.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\Form4.cs",
+              "RelativeDocumentMoniker": "tool qnu pro\\Form4.cs",
+              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\Form4.cs",
+              "RelativeToolTip": "tool qnu pro\\Form4.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAlwIcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T06:18:05.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\Form4.cs",
+              "RelativeDocumentMoniker": "tool qnu pro\\Form4.cs",
+              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\Form4.cs [Design]",
+              "RelativeToolTip": "tool qnu pro\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T00:48:13.327Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\Form3.cs",
+              "RelativeDocumentMoniker": "tool qnu pro\\Form3.cs",
+              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\Form3.cs [Design]",
+              "RelativeToolTip": "tool qnu pro\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T00:48:08.347Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\Form2.cs",
+              "RelativeDocumentMoniker": "tool qnu pro\\Form2.cs",
+              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\Form2.cs [Design]",
+              "RelativeToolTip": "tool qnu pro\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T00:48:03.749Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\Form1.cs",
+              "RelativeDocumentMoniker": "tool qnu pro\\Form1.cs",
+              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\C# winform\\tool qnu pro\\tool qnu pro\\Form1.cs [Design]",
+              "RelativeToolTip": "tool qnu pro\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T00:47:57.57Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
