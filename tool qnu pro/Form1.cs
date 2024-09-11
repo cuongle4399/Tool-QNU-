@@ -155,8 +155,8 @@ namespace tool_qnu_pro
         private void button1_Click(object sender, EventArgs e)
         {
             ChromeDriverService cmd = ChromeDriverService.CreateDefaultService();
-            ChromeDriver trinhduyet = new ChromeDriver(cmd);
             cmd.HideCommandPromptWindow = true;
+            ChromeDriver trinhduyet = new ChromeDriver(cmd);
             string[] thongtinvip = data.Split('|');
             string accountvip = thongtinvip[3];
             string passwordvip = thongtinvip[4];
